@@ -1954,3 +1954,13 @@ body {
 }
 
 }
+.demo-hero {
+  padding-top: 140px;
+  padding-bottom: 70px;
+}
+
+.product-card .primary-btn {
+  display: inline-flex;
+  margin-top: 18px;
+  text-decoration: none;
+}
